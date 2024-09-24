@@ -1,7 +1,7 @@
 /data
 /archive
-/case_study
-
+/case_studies/screw_driving/_process_screw_data.py
+/case_studies/injection_modling/_process_injection_molding_data.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

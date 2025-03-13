@@ -14,7 +14,7 @@
 
 ## 🌟 Welcome!
 
-Welcome to the **"Introduction to Python for Data Science"** course series. This comprehensive program is designed to take you from [Python](https://www.python.org/) basics to advanced data science applications through a structured, hands-on learning experience.
+Welcome to the **"Introduction to Python"** course series. This comprehensive program is designed to take you from [Python](https://www.python.org/) basics to advanced data science applications through a structured, hands-on learning experience.
 
 Whether you're a complete beginner or looking to refresh your skills for data science applications, this course provides **a solid foundation** for your journey into Python programming and data analysis.
 
@@ -59,7 +59,9 @@ Each unit consists of multiple chapters with theoretical explanations, code exam
 
 ## 🧰 Prerequisites
 
-This course was initially developed for students and researchers with backgrounds in Mechanical Engineering (like those at TU Dortmund's [IPS](https://ips.mb.tu-dortmund.de/) and University of Kassel's [IfW](https://www.uni-kassel.de/maschinenbau/institute/institut-fuer-werkstofftechnik/ifwt)), but has since evolved into a more general-purpose introduction to Python for data science. The content is accessible to learners from diverse disciplines who want to add programming to their skillset.
+This course was initially developed for students and researchers with backgrounds in Mechanical Engineering (like those at TU Dortmund's [IPS](https://ips.mb.tu-dortmund.de/) and University of Kassel's [IfW](https://www.uni-kassel.de/maschinenbau/institute/institut-fuer-werkstofftechnik)), but has since evolved into a more general-purpose introduction to Python. The content is accessible to learners from diverse disciplines who want to add programming to their skillset.
+
+While the course originated with data science applications in mind, it has broader applicability. The first five units (Setup, Syntax, NumPy, Pandas, and Matplotlib) provide fundamental programming skills valuable for any Python practitioner. Only the final unit (Scikit-Learn) focuses specifically on machine learning and data science applications.
 
 You'll need:
 - Basic computer literacy

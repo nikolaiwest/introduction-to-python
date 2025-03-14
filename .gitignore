@@ -2,6 +2,7 @@
 /archive
 /case_studies/screw_driving/_process_screw_data.py
 /case_studies/injection_modling/_process_injection_molding_data.py
+/chapters/chapter-0X_chapter-template.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Python-3.10+-blue.svg" alt="Python 3.10+">
   <img src="https://img.shields.io/badge/Status-Active-success.svg" alt="Status: Active">
   <img src="https://img.shields.io/badge/Level-Beginner_Friendly-green.svg" alt="Level: Beginner Friendly">
-  <img src="https://img.shields.io/badge/Last_Updated-March_2025-informational" alt="Last Updated: April 2025">
+  <img src="https://img.shields.io/badge/Last_Updated-March_2025-informational" alt="Last Updated: March 2025">
   <img src="https://img.shields.io/badge/Language-English-blue.svg" alt="Language: English">
 </p>
 
@@ -22,7 +22,7 @@ Whether you're a complete beginner or looking to refresh your skills for data sc
 
 There are many excellent Python courses available online today, such as [Python for Everybody](https://www.py4e.com/), [Real Python](https://realpython.com/), [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/), and [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) *(a book recommendation)*. Our goal was not to reinvent the wheel, but rather to create a focused, hands-on learning experience specifically designed for data science applications.
 
-This course was originally developed at the [Institute for Production Systems](https://ips.mb.tu-dortmund.de/) by an engineer with a Mechanical Engineering background who transitioned to Python and data science over six years ago. It's designed specifically to help beginners avoid the common pitfalls encountered when entering the field of programming without a traditional Computer Science background.
+This course was originally developed at the [Institute for Production Systems](https://ips.mb.tu-dortmund.de/) by an engineer with a Mechanical Engineering background who transitioned to Python and data science over several years ago. It's designed specifically to help beginners avoid the common pitfalls encountered when entering the field of programming without a traditional Computer Science background.
 
 While built primarily for self-paced learning using [Jupyter Notebooks](https://jupyter.org/), this course has been successfully delivered in-person during one-week crash courses for students in the [Industrial Data Science](https://ips.mb.tu-dortmund.de/en/study-doctorate/courses/msc-industrial-data-science/) Master's program at TU Dortmund and for doctoral candidates at the [University of Kassel](https://www.uni-kassel.de/maschinenbau/infothek/sitemap-news-detail/2024/07/25/python-for-engineers-am-ifw?cHash=62d1573dc91336a7797438a3ec1a4858) (both held in 2024).
 
@@ -44,16 +44,17 @@ This course provides the structure, but your engagement and persistence will det
 
 ## 🔄 Course Structure
 
-This course consists of six interconnected units that build upon each other:
+This course consists of seven interconnected units that build upon each other:
 
 | Unit | Title | Description |
 |------|-------|-------------|
 | UE1 | **[Setup](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-01_setup/chapter-00_outline-and-best-practices.ipynb)** | Getting started with Python installation and environment configuration |
 | UE2 | **[Syntax](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-02_syntax/chapter-00_outline-and-best-practices.ipynb)** | Core Python programming concepts and syntax fundamentals |
-| UE3 | **[NumPy](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-03_numpy/chapter-00_outline-and-best-practices.ipynb)** | Scientific computing and numerical operations with NumPy |
-| UE4 | **[Pandas](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-04_pandas/chapter-00_outline-and-best-practices.ipynb)** | Data manipulation and analysis with the Pandas library |
-| UE5 | **[Matplotlib](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-05_matplotlib/chapter-00_outline-and-best-practices.ipynb)** | Data visualization techniques and principles |
-| UE6 | **[Scikit-Learn](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-06_scikit-learn/chapter-00_outline-and-best-practices.ipynb)** | Introduction to machine learning concepts and implementation |
+| UE3 | **[Practices](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-03_practices/chapter-00_outline-and-best-practices.ipynb)** | Effective coding patterns and professional development approaches |
+| UE4 | **[NumPy](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-03_numpy/chapter-00_outline-and-best-practices.ipynb)** | Scientific computing and numerical operations with NumPy |
+| UE5 | **[Pandas](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-04_pandas/chapter-00_outline-and-best-practices.ipynb)** | Data manipulation and analysis with the Pandas library |
+| UE6 | **[Matplotlib](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-05_matplotlib/chapter-00_outline-and-best-practices.ipynb)** | Data visualization techniques and principles |
+| UE7 | **[Scikit-Learn](https://github.com/nikolaiwest/introduction-to-python/blob/main/chapters/unit-06_scikit-learn/chapter-00_outline-and-best-practices.ipynb)** | Introduction to machine learning concepts and implementation |
 
 Each unit consists of multiple chapters with theoretical explanations, code examples, and practical exercises to reinforce your learning.
 
@@ -61,7 +62,7 @@ Each unit consists of multiple chapters with theoretical explanations, code exam
 
 This course was initially developed for students and researchers with backgrounds in Mechanical Engineering (like those at TU Dortmund's [IPS](https://ips.mb.tu-dortmund.de/) and University of Kassel's [IfW](https://www.uni-kassel.de/maschinenbau/institute/institut-fuer-werkstofftechnik)), but has since evolved into a more general-purpose introduction to Python. The content is accessible to learners from diverse disciplines who want to add programming to their skillset.
 
-While the course originated with data science applications in mind, it has broader applicability. The first five units (Setup, Syntax, NumPy, Pandas, and Matplotlib) provide fundamental programming skills valuable for any Python practitioner. Only the final unit (Scikit-Learn) focuses specifically on machine learning and data science applications.
+While the course originated with data science applications in mind, it has broader applicability. The first six units (Setup, Syntax, Practices, NumPy, Pandas, and Matplotlib) provide fundamental programming skills valuable for any Python practitioner. Only the final unit (Scikit-Learn) focuses specifically on machine learning and data science applications.
 
 You'll need:
 - Basic computer literacy

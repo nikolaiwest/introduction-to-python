@@ -1,6 +1,3 @@
-# Please note, the solutions here contain extensive comments to explain the code and concepts.
-# In practice, you should aim to write clean, concise code with appropriate comments.
-
 # First, we'll create a materials database with relevant properties
 # Each material includes Young's modulus (in GPa) and yield strength (in MPa)
 

@@ -1,0 +1,12 @@
+[
+    {"id": 1, "name": "Laptop", "category": "Electronics", "price": 1200.50, "in_stock": true},
+    {"id": 2, "name": "Monitor", "category": "Electronics", "price": 350.75, "in_stock": true},
+    {"id": 3, "name": "Keyboard", "category": "Accessories", "price": 85.99, "in_stock": true},
+    {"id": 4, "name": "Mouse", "category": "Accessories", "price": 45.50, "in_stock": false},
+    {"id": 5, "name": "Tablet", "category": "Electronics", "price": 600.25, "in_stock": true},
+    {"id": 6, "name": "Headphones", "category": "Accessories", "price": 150.00, "in_stock": false},
+    {"id": 7, "name": "Printer", "category": "Electronics", "price": 275.99, "in_stock": true},
+    {"id": 8, "name": "Camera", "category": "Electronics", "price": 450.00, "in_stock": true},
+    {"id": 9, "name": "Phone", "category": "Electronics", "price": 800.50, "in_stock": true},
+    {"id": 10, "name": "Charger", "category": "Accessories", "price": 30.25, "in_stock": true}
+  ]

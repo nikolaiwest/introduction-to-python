@@ -1,0 +1,13 @@
+customer_id,name,age,email,purchase_amount
+A001,John Smith,32.0,john.smith@email.com,$120.50
+A002,Jane Doe,-5.0,jane.doe@email.com,$95.20
+,Bob Johnson,45.0,bob.johnson@email,$210.75
+A004,Sarah Williams,28.0,sarah.williams@email.com,$50.30
+A005,,36.0,michael@email.com,$75.00
+,EMILY DAVIS,,,$135.60
+A007,david miller,52.0,david@,$180.90
+A008,emma Wilson,47.0,emma.wilson@email.com,$65.40
+A009,,23.0,chris.moore@email.com,$45.00
+A010,Oliver Taylor,39.0,oliver.taylor@email.com,$200.25
+A005,,36.0,michael@email.com,$75.00
+,EMILY DAVIS,,,$135.60

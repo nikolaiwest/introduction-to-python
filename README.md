@@ -70,6 +70,53 @@ You'll need:
 - A computer where you can install software ([Windows](https://www.microsoft.com/windows), [Mac](https://www.apple.com/macos), or [Linux](https://www.linux.org/))
 - Interest in data science and programming
 
+## 🐍 Recommended Core Track
+
+While this course is designed to be comprehensive, we recommend focusing on this core track for your first learning journey through Python. This carefully selected path provides a smoother learning experience for beginners by focusing on the most essential concepts and skills needed for scientific and engineering applications:
+
+<details><summary><b>See the full core track here:</b></summary>
+
+### **UE1: Setup**
+>*Learn how to configure your development environment and interact with Python through different interfaces — essential foundations before coding.*
+* **Chapter 1:** Python on the Command Line Interface
+* **Chapter 2:** Integrated Development Environments
+* **Chapter 3:** Environments and Packages
+
+### **UE2: Syntax**
+> *Master the fundamental building blocks of Python programming, from basic data types to functions — the core language features you'll use in every program.*
+* **Chapter 1:** Getting Started with Python
+* **Chapter 2:** Python Basics
+* **Chapter 3:** Control Structures
+* **Chapter 4:** Data Structures
+* **Chapter 5:** Functions and Parameters
+
+### **UE4: NumPy**
+> *Discover how to perform efficient numerical computations with NumPy — the foundation for scientific computing that makes Python a powerful alternative to MATLAB.*
+* **Chapter 1:** Introduction to NumPy
+* **Chapter 2:** NumPy Basics
+* **Chapter 3:** Operations with NumPy Arrays
+
+### **UE5: Pandas**
+> *Learn to wrangle, clean, and analyze structured data with Pandas — essential skills for transforming raw data into meaningful insights for engineering applications.*
+* **Chapter 1:** Introduction to Pandas
+* **Chapter 2:** Data Manipulation with Pandas
+* **Chapter 3:** Data Analysis and Aggregation
+
+### **UE6: Matplotlib**
+> *Develop skills to create clear, informative visualizations of your data — crucial for communicating findings and generating insights from complex datasets.*
+* **Chapter 1:** Introduction to Matplotlib
+* **Chapter 2:** Plotting with Matplotlib
+* **Chapter 3:** Customizing Plots
+
+### **UE7: Scikit-Learn**
+> *Get a foundation in machine learning with Python's premier ML library — opening the door to predictive modeling and data-driven decision making.*
+* **Chapter 1:** Introduction to Scikit-learn
+* **Chapter 2:** Data Preprocessing with Scikit-learn
+
+This core track provides the essential knowledge to become productive with Python for scientific computing, data analysis, and visualization - skills directly applicable to engineering research and practice. After mastering these fundamentals, you can explore the remaining chapters for advanced techniques.
+
+</details>
+
 ## 🚀 Getting Started
 
 ### Option 1: If you're familiar with Git
@@ -81,9 +128,9 @@ This option allows you to download the course material and keep it updated with 
    git clone https://github.com/nikolaiwest/introduction-to-python.git
    ```
 
-2. Follow the installation instructions in UE1: Setup to configure your environment.
+2. Follow the installation instructions in **UE1: Setup** to configure your environment.
 
-3. Start with the first unit (UE1) and progress through the units sequentially.
+3. Start with the first unit (UE1) and progress through the units, either sequentially or following the [Core Track](#-recommended-core-track).
 
 ### Option 2: If you're new to Git
 

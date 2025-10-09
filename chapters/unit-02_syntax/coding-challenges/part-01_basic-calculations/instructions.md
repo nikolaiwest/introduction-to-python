@@ -1,3 +1,5 @@
+> **Note:** If this is your first time working with `.md` files, they're a way to store formatted text. Usually, there is a "raw" version to look at and a "preview" version with proper formatting. In VS Code, for example, you can right-click this file and use "Open Preview" for a properly formatted version.
+
 # **Part 1: Basic Calculations - Your First Python Engineering Application**
 
 ## **🎯 Project Overview**
